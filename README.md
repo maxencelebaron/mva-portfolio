@@ -5,8 +5,8 @@
 ## About
 
 Master 2 student at MVA (ENS Paris-Saclay), seeking a PhD position starting September 2026.
-My interests span **reinforcement learning / sequential learning**, **optimization**, **signal processing / time series**
-and **stochastic modeling for ML** (MCMC, diffusion) with a taste for mathematically grounded approaches.
+Topics I find compelling: **reinforcement learning / sequential learning**, **optimization**, **signal processing / time series**
+and **stochastic modeling for ML** (MCMC, diffusion).
 
 ## Projects
 
