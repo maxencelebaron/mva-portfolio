@@ -16,7 +16,7 @@ and **stochastic modeling for ML** (MCMC, diffusion).
 | Computational Statistics | [Gradient Boosting from Scratch](https://github.com/maxencelebaron/gradient-boosting-from-scratch) | Re-implementation and convergence analysis of Gradient Boosting |
 | Deep Learning & Signal Processing | [Radio Anomaly Detection](https://github.com/maxencelebaron/radio-anomaly-detection) | Open-set anomaly detection on radio signals |
 | Audio Signal Analysis | [Audio Tagging](https://github.com/maxencelebaron/audio-tagging-chime) | Environmental audio tagging with denoising autoencoders |
-| Generative Modeling | FIG Inpainting | Image reconstruction as an inverse problem using diffusion models — *link coming soon* |
+| Generative Modeling | [FIG Inpainting](https://github.com/MRoinCh/fig_project.git) | Image reconstruction as an inverse problem using diffusion models |
 
 ## Labs & Coursework
 
